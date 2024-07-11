@@ -112,7 +112,7 @@
     z-index: 0;
 }
 
-/* HOVER */
+/* hover */
 
 .postit:nth-of-type(1):hover {
     transform: rotate(0deg);
